@@ -38,6 +38,7 @@ $objAluno->addNota(6);
 $objAluno->addNota(8);
 $objAluno->addNota(4);
 $objAluno->addNota(5);
+$objAluno->addNota(7);
 $objAluno->calcularMedia();
 echo $objAluno->status() . "\n";
 echo $objAluno->calcularMedia();
