@@ -36,7 +36,7 @@ class Moto extends VeiculoTerrestre
 
     public function empinar()
     {
-        echo "Empinando moto\n";
+        echo "Empinando a moto\n";
     }
 }
 
